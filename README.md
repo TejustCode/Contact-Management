@@ -1,3 +1,21 @@
+#Contact Management
+
+The Contact Manager is a React-based web app for organizing and managing contacts, featuring add, edit, delete, and search functionalities. It demonstrates proficiency in front-end development and state management.
+
+its a complete Full Stack Web Application developed using following technologies or languages and tools :
+
+Frontend : HTML , CSS , JS , React JS , Bootstrap 
+Backend : Springboot , Hibernate
+Database : MySQL
+Tools : Postman and Insomnia for API Testing
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
