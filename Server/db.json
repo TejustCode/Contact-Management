@@ -1,0 +1,80 @@
+{
+  "contacts": [
+    {
+      "id": "@A121",
+      "name": "ajay",
+      "photo": "https://th.bing.com/th/id/OIP.eU8MYLNMRBadK-YgTT6FJQHaHw?w=208&h=217&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+      "mobile": "989898989",
+      "email": "ajay123@gmail.com",
+      "company": "WIPRO",
+      "title": "Software Developer",
+      "groupName": "1"
+    },
+    {
+      "id": "7855",
+      "name": "Babu",
+      "photo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-png%2Favatar&psig=AOvVaw2JmAS51mg0mJwUFtLqEeOt&ust=1726928338047000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCmgMLb0YgDFQAAAAAdAAAAABAE",
+      "mobile": "9874561226",
+      "email": "babu@gmail.com",
+      "title": "Senior Software Developer",
+      "company": "ACCENTURE",
+      "groupName": "Family"
+    },
+    {
+      "id": "6879",
+      "name": "Rahul",
+      "photo": "https://th.bing.com/th/id/OIP.eU8MYLNMRBadK-YgTT6FJQHaHw?w=208&h=217&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+      "mobile": "6547845165",
+      "email": "rahul@gmail.com",
+      "title": "Software Tester",
+      "company": "TCS",
+      "groupName": "Friends"
+    },
+    {
+      "id": "4d89",
+      "name": "Suresh",
+      "photo": "https://th.bing.com/th/id/OIP.eU8MYLNMRBadK-YgTT6FJQHaHw?w=208&h=217&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+      "mobile": "9874665164",
+      "email": "suresh@gmail.com",
+      "title": "Software Developer",
+      "company": "WIPRO",
+      "groupName": "Friends"
+    },
+    {
+      "id": "7968",
+      "name": "Mahesh",
+      "photo": "https://th.bing.com/th/id/OIP.eU8MYLNMRBadK-YgTT6FJQHaHw?w=208&h=217&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+      "mobile": "9856135465",
+      "email": "mahesh@gmail.com",
+      "title": "Software Engineer",
+      "company": "ACC",
+      "groupName": "Family"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "Social"
+    },
+    {
+      "id": "4",
+      "name": "College"
+    },
+    {
+      "id": "5",
+      "name": "Friends"
+    },
+    {
+      "id": "6",
+      "name": "Community"
+    }
+  ]
+}
