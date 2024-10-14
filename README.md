@@ -10,6 +10,8 @@ Database : MySQL
 Tools : Postman and Insomnia for API Testing
 
 
+NOTE : *************** There is Spring boot file After Server,
+which is used to connect Client-Side Application to the Server-Side Applicatio to store the data of Contacts to the Database **************************************
 
 
 
