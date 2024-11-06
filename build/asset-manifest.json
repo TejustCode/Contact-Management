@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Contact-Management/static/css/main.b1278946.css",
+    "main.js": "/Contact-Management/static/js/main.b74c9707.js",
+    "static/media/fa-solid-900.ttf": "/Contact-Management/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/Contact-Management/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/Contact-Management/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/Contact-Management/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/Contact-Management/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/Contact-Management/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/1489.gif": "/Contact-Management/static/media/1489.ae9d8bd9a659fbfab966.gif",
+    "static/media/fa-v4compatibility.ttf": "/Contact-Management/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Contact-Management/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/Contact-Management/index.html",
+    "main.b1278946.css.map": "/Contact-Management/static/css/main.b1278946.css.map",
+    "main.b74c9707.js.map": "/Contact-Management/static/js/main.b74c9707.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1278946.css",
+    "static/js/main.b74c9707.js"
+  ]
+}
